@@ -1,0 +1,4 @@
+com\demo\spring\EmpRepo.class
+com\demo\spring\EmpRestController.class
+com\demo\spring\entity\Emp.class
+com\demo\spring\BootApp1Application.class
